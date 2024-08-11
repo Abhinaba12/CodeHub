@@ -1,9 +1,9 @@
 AI integrated MERN Stack platform supporting JavaScript, C++, Java, PHP & TypeScript. All in one Intuitive, Customizable Interface. Ideal for all skill levels, It offers a seamless experience for coding, learning & collaboration.
 
 
-**Install Dependencies**
+**Install Dependencies(for both folder)**
    ```bash
-npm install(for both folder)
+npm install
 
    ```
 
