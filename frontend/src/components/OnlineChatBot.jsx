@@ -20,7 +20,8 @@ function OnlineChatBot() {
 
     try {
       // Fetch AI response
-      const response = await axios.post('http://localhost:3000/chat', { message: input });
+      // const response = await axios.post('http://localhost:3000/chat', { message: input });
+      const response = await axios.post('https://codehub-6wrs.onrender.com/chat', { message: input });
       setMessages(prevMessages => [...prevMessages, { sender: 'ai', text: response.data.response }]);
     } catch (error) {
       console.error('Error sending message:', error);
