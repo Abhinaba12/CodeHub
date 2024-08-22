@@ -8,8 +8,8 @@ npm install
    ```
 
 **To Start**
-npm run dev (Run this command inside Frontend Folder)
-npm start (Run this command inside Backend Folder)
+1. npm run dev (Run this command inside Frontend Folder)
+2. npm start (Run this command inside Backend Folder)
 
 *Homepage*
 ![homepage](https://github.com/user-attachments/assets/040856fa-6beb-44f9-ab00-8036abfabe18)
